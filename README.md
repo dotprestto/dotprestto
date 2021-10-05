@@ -42,13 +42,13 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/dotprestto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dotprestto&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/dotprestto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotprestto&theme=dracula&hide_langs_below=1" />
 </a>
 
