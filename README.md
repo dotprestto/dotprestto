@@ -1,27 +1,26 @@
 ![](https://komarev.com/ghpvc/?username=dotprestto&color=006bed)
 
-<h3> :man: &nbsp;Sobre mim </h3>
+<h3> 👱‍♂️&nbsp;About me </h3>
 
-- 🤔 &nbsp; Aprendendo novas tecnologias e sempre tentando ser alguém melhor.
-- 🎓 &nbsp; Estudando Engenharia Elétrica na <a href="https://www.unioeste.br/portal/campus-foz-do-iguacu/">Universidade Estadual do Oeste do Paraná - UNIOESTE</a>.
-- 💼 &nbsp; Trabalhando como bolsista na <a href="https://www.agrostac.com.br/home">STAC</a>.
-- 🌱 &nbsp; Atualmente estudando mais sobre NestJS, Prisma e Microservices.
+- 🤔 &nbsp; Learning cool things and always trying to be better.
+- 🎓 &nbsp; Studying Electrical Engineering at <a href="https://www.unioeste.br/portal/campus-foz-do-iguacu/">State University of West Paraná - UNIOESTE</a>.
+- 💼 &nbsp; Internt at <a href="https://www.agrostac.com.br/home">STAC</a>.
+- 🌱 &nbsp; Currently studying more about NestJS, Prisma and Microservices.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+<h3> :rocket: &nbsp;Skills </h3>
+
+**Development**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 
-**Utilidades**
+**Database**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **DevOps**
 
@@ -31,14 +30,16 @@
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de Desenvolvimento**
+**Dev Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
 
 <br/>
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <br/>
 
@@ -54,7 +55,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
+<h3> 🌎&nbsp;Contact: </h3>
 
 [![Linkedin: Allan Presotto](https://img.shields.io/badge/-allanpresotto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allan-presotto/)](https://www.linkedin.com/in/allan-presotto/)
 [![GitHub dotprestto](https://img.shields.io/github/followers/dotprestto?label=follow&style=social)](https://github.com/dotprestto)
