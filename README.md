@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Learning cool things and always trying to be better.
 - 🎓 &nbsp; Studying Electrical Engineering at <a href="https://www.unioeste.br/portal/campus-foz-do-iguacu/">State University of West Paraná - UNIOESTE</a>.
-- 💼 &nbsp; Internt at <a href="https://www.agrostac.com.br/home">STAC</a>.
+- 💼 &nbsp; Intern at <a href="https://www.agrostac.com.br/home">STAC</a>.
 - 🌱 &nbsp; Currently studying more about NestJS, Prisma and Microservices.
 
 
