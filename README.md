@@ -39,21 +39,42 @@
 
 <br/>
 
-## **GitHub Statistics**
+## **GitHub Stats**
 
 <br/>
+<!-- Stats  -->
+<p align="center">
+  <a href="https://github.com/dotprestto">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=dotprestto&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  
+<!-- Top Langs -->
+  <a href="https://github.com/dotprestto">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotprestto&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
 
-<a href="https://github.com/dotprestto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dotprestto&theme=dracula&show_icons=true" />
+
+<!-- Trophys -->
+<p align="center">
+  <a href="https://github.com/dotprestto">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=dotprestto&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
 </a>
-
-<br/>
-
-<a href="https://github.com/dotprestto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotprestto&theme=dracula&hide_langs_below=1" />
-</a>
-
-<br/>
+</p>
+<!-- Contribution Graph -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=dotprestto&theme=react-dark" alt="drawing" width="800"/> -->
 
 <h3> 🌎&nbsp;Contact: </h3>
 
