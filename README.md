@@ -38,7 +38,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-333333?style=flat&logo=mysql)
-![pgAdmin](https://img.shields.io/badge/-pgAdmin-333333?style=flat&logo=postgres)
+![pgAdmin](https://img.shields.io/badge/-pgAdmin-333333?style=flat&logo=postgresql)
 
 <br/>
 
