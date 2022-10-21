@@ -13,11 +13,11 @@
 **Development**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 
 **Database**
 
