@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Learning cool things and always trying to be better.
 - 🎓 &nbsp; Studying Electrical Engineering at <a href="https://www.unioeste.br/portal/campus-foz-do-iguacu/">State University of West Paraná - UNIOESTE</a>.
 - 💼 &nbsp; Intern at <a href="https://www.pti.org.br">Itaipu Technological Park - PTI</a>.
-- 🌱 &nbsp; Currently studying more about Python.
+- 🌱 &nbsp; Currently studying more about Robotics, autonomous navigation and localization and ROS2.
 
 
 <h3> :rocket: &nbsp;Skills </h3>
