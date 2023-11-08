@@ -67,7 +67,7 @@
 
 
 <!-- Trophys -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/dotprestto">
     <img
       align="center"
@@ -75,7 +75,7 @@
     />
   </a>
 </a>
-</p>
+</p> -->
 <!-- Contribution Graph -->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=dotprestto&theme=react-dark" alt="drawing" width="800"/> -->
 
