@@ -18,7 +18,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 
 **Database**
 
