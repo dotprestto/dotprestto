@@ -19,8 +19,11 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![ROS2](https://img.shields.io/badge/-Ros2-333333?style=flat&logo=ros)
-![PlatformIO](https://img.shields.io/badge/-platformio-333333?style=flat&logo=platformio)
+![ROS2](https://img.shields.io/badge/-ROS2-333333?style=flat&logo=ros)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-333333?style=flat&logo=platformio)
+![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino)
+
+
 
 **Currently Learning**
 
