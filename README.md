@@ -3,7 +3,7 @@
 <h3> 👱‍♂️&nbsp;About me </h3>
 
 - 🤔 &nbsp; Learning cool things and always trying to be better.
-- 🎓 &nbsp; Electrical Engineer at <a href="https://www.unioeste.br/portal/campus-foz-do-iguacu/">State University of West Paraná - UNIOESTE</a>.
+- 🎓 &nbsp; Electrical Engineer Bachelor at <a href="https://www.unioeste.br/portal/campus-foz-do-iguacu/">State University of West Paraná - UNIOESTE</a>.
 - 💼 &nbsp; Embedded Systems Developer at <a href="https://www.pti.org.br">Itaipu Technological Park - PTI</a>.
 - 🌱 &nbsp; Currently studying more about Robotics, autonomous navigation and localization, embedded systems and ROS2.
 
